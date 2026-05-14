@@ -1,0 +1,41 @@
+{"type":"worried","incoming":"איפה את", "reply":"הכל בסדר אני פשוט קצת עסוקה"}
+{"type":"worried","incoming":"למה את לא עונה","reply":"אני בדיוק באמצע משהו אחזור אליך"}
+{"type":"worried","incoming":"הכל בסדר?","reply":"כן כן הכל בסדר"}
+{"type":"worried","incoming":"את בסדר?","reply":"כן כן :)"}
+{"type":"worried","incoming":"דאגתי לך","reply":"הכל טוב באמת"}
+{"type":"worried","incoming":"מה איתך","reply":"בסדר, פשוט קצת עמוסה"}
+{"type":"worried","incoming":"את חיה","reply":"חיה, פשוט קצת עסוקה חחחח"}
+{"type":"worried","incoming":"קרה משהו","reply":"נופ הכל טוב"}
+{"type":"worried","incoming":"איפה נעלמת","reply":"אני פה פשוט עסוקה רגע"}
+{"type":"worried","incoming":"תעני לי","reply":"אני יכולה לחזור אליך אחר כך?"}
+{"type":"mom","incoming":"אכלת","reply":"כן לא לדאוג"}
+{"type":"mom","incoming":"אכלת משהו","reply":"הכל טוב, אל תדאגי"}
+{"type":"mom","incoming":"תאכלי משהו","reply":"סבבה"}
+{"type":"mom","incoming":"אל תשכחי לאכול","reply":"לא שוכחת"}
+{"type":"mom","incoming":"את אוכלת","reply":"כן כן הכל טוב"}
+{"type":"location","incoming":"מתי את מגיעה","reply":"לא יודעת עדיין אעדכן"}
+{"type":"location","incoming":"את בדרך","reply":"כבר אחזור אליך"}
+{"type":"location","incoming":"איפה את עכשיו","reply":"שניה אני באמצע משהו אחזור אליך"}
+{"type":"location","incoming":"מתי תהיי בבית","reply":"לא בטוחה עדיין אעדכן"}
+{"type":"location","incoming":"מתי לצפות לך","reply":"לא יודעת עדיין אעדכן אחר כך"}
+{"type":"pushy","incoming":"נו תעני כבר","reply":"שניה אני באמצע משהו"}
+{"type":"pushy","incoming":"את מסננת אותי","reply":"סורי רגע אני באמצע משהו"}
+{"type":"pushy","incoming":"מה נסגר איתך","reply":"הכל טוב פשוט יש לי קצת עומס"}
+{"type":"pushy","incoming":"טוב תודה באמת","reply":"אחזור אליך אחר כך <3"}
+{"type":"pushy","incoming":"איפה נעלמת","reply":"פה, פשוט עמוסה קצת"}
+{"type":"invite","incoming":"בואי נצא היום","reply":"הלוואי אבל לא אספיק היום :("}
+{"type":"invite","incoming":"רוצה קפה","reply":"אני פשוט באמצע משהו אז לא יכולה עכשיו"}
+{"type":"invite","incoming":"בואי ניפגש","reply":"בא לי אבל לא יכולה היום :("}
+{"type":"invite","incoming":"את באה היום","reply":"אוף לא נראה לי"}
+{"type":"invite","incoming":"זורמת לצאת","reply":"לא יכולה עכשיו סורי"}
+{"type":"short","incoming":"?","reply":"פה, פשוט עסוקה רגע"}
+{"type":"short","incoming":"היי","reply":"היי מה קורה?"}
+{"type":"short","incoming":"נו","reply":"שניה אני באמצע משהו כבר עונה"}
+{"type":"short","incoming":"איפה","reply":"עושה משהו כבר עונה"}
+{"type":"short","incoming":"מה קורה","reply":"הכל טוב, קצת באמצע משהו"}
+{"type":"general","incoming":"מה איתך","reply":"אני בסדר קצת עמוסה מה איתך?"}
+{"type":"general","incoming":"איך הולך","reply":"סבבה קצת עמוסה"}
+{"type":"general","incoming":"מה חדש","reply":"הכל רגיל קצת עמוסה"}
+{"type":"general","incoming":"לא שומעים ממך","reply":"כן סורי עמוסה קצת"}
+{"type":"general","incoming":"נו מה איתך","reply":"אני חיה, פשוט עמוסה חחחח"}
+
